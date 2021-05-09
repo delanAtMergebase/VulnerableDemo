@@ -1,17 +1,4 @@
 # VulnerableDemo
-Test commit
-test change
-test edit
-test
-test edit
-test
-test edit
-test commit
-Test sdsd
-test
+MergeBase example Java application. 
 
-
-Test
-Text Text
-Master commit
-Commit on master
+Using CodeGreen and BuildGreen!
